@@ -5,7 +5,7 @@
 $valor=$_GET['valor'];  
 
 
-$name = 'arquivo.txt';
+//$name = 'arquivo.txt';
 
 
 //condicao 
